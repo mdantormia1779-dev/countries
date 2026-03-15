@@ -1,0 +1,11 @@
+.country{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.active-countries{
+    background-color: rgb(230, 221, 221);
+    color: black;
+}
